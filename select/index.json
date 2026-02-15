@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DND",
+  "base_artist": "レトロリロン",
+  "createdAt": "2026-02-15T15:16:27.217495Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DND",
+      "artist": "Semisonic",
+      "has_synced": true,
+      "path": "select/01_DND_Semisonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "dnd",
+      "artist": "Glaive",
+      "has_synced": false,
+      "path": "select/02_dnd_Glaive.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DND",
+      "artist": "Polo G",
+      "has_synced": true,
+      "path": "select/03_DND_Polo_G.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dnd",
+      "artist": "LaRussell feat. Dom Bailey & Julian Avila",
+      "has_synced": false,
+      "path": "select/04_Dnd_LaRussell_feat._Dom_Bailey_&_Julian_Avila.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DND",
+      "artist": "LaRussell, Dom Bailey & Julian Avila",
+      "has_synced": false,
+      "path": "select/05_DND_LaRussell,_Dom_Bailey_&_Julian_Avila.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dnd",
+      "artist": "Sica",
+      "has_synced": false,
+      "path": "select/06_Dnd_Sica.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DND (Do Not Disturb)",
+      "artist": "John Park",
+      "has_synced": true,
+      "path": "select/07_DND_(Do_Not_Disturb)_John_Park.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DnD (feat. Kenny Mason)",
+      "artist": "Paris Texas feat. Kenny Mason",
+      "has_synced": true,
+      "path": "select/08_DnD_(feat._Kenny_Mason)_Paris_Texas_feat._Kenny_Mason.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DnD (feat. Kenny Mason)",
+      "artist": "Paris, Texas",
+      "has_synced": false,
+      "path": "select/09_DnD_(feat._Kenny_Mason)_Paris,_Texas.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "dnd (Original Mix)",
+      "artist": "glaive",
+      "has_synced": true,
+      "path": "select/10_dnd_(Original_Mix)_glaive.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Modo DND",
+      "artist": "Xavi feat. Tony Aguirre",
+      "has_synced": true,
+      "path": "select/11_Modo_DND_Xavi_feat._Tony_Aguirre.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Modo DND",
+      "artist": "Xavi/Tony Aguirre",
+      "has_synced": true,
+      "path": "select/12_Modo_DND_Xavi_Tony_Aguirre.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gotta Get Thru This (D'n'D Radio Edit)",
+      "artist": "Daniel Bedingfield",
+      "has_synced": true,
+      "path": "select/13_Gotta_Get_Thru_This_(D'n'D_Radio_Edit)_Daniel_Bedingfield.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Daniel Bedingfield - Gotta Get Thru This (D'N'D Radio Edit)",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/14_Daniel_Bedingfield_-_Gotta_Get_Thru_This_(D'N'D_Radio_Edit)_Various.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gotta Get Thru This (D'n'D Radio Edit)",
+      "artist": "Daniel Bedingfield",
+      "has_synced": true,
+      "path": "select/15_Gotta_Get_Thru_This_(D'n'D_Radio_Edit)_Daniel_Bedingfield.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DND",
+      "artist": "レトロリロン",
+      "has_synced": false,
+      "path": "select/pl_01_DND_レトロリロン.txt"
+    }
+  ]
+}
